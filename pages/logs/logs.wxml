@@ -1,0 +1,32 @@
+<!--logs.wxml-->
+<view class="container log-list">
+  <view class="header"></view>
+  <view class="content">
+    <view class="item">酒店</view>
+    <view class="item item-jipiao">机票</view>
+    <view class="item item-qiangpiao">火车票</view>
+    <view class="item jingdian">景点门票</view>
+    <view class="item chuanpiao">汽车票.船票</view>
+    <view class="item zhuanche">租车.专车</view>
+    <view class="gentuan">跟团游</view>
+    <view class="gentuan ziyouxing">自由行</view>
+    <view class="gentuan dingzhi">定制旅行</view>
+    <view class="gentuan yiriyou">一日游</view>
+    <view class="gentuan xiangdao">当地向导</view>
+    <view class="gentuan gonglue">攻略</view>
+  </view>
+  <view class="footer">
+    <view class="footer-item">民宿</view>
+    <view class="footer-item">出行清单</view>
+    <view class="footer-item">行李寄送</view>
+    <view class="footer-item">船票</view>
+    <view class="footer-item">签证</view>
+    <view class="footer-item">外币兑换</view>
+    <view class="footer-item">出境上网</view>
+    <view class="footer-item">境外火车</view>
+    <view class="footer-item">购物</view>
+    <view class="footer-item">礼品卡</view>
+    <view class="footer-item">信用卡</view>
+    <view class="footer-item">兴趣活动</view>
+  </view>
+</view>
